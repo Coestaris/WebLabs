@@ -6,10 +6,9 @@
 
 ЛАБОРАТОРНА РОБОТА №2
 Розробка функціональності Web-додатка мовою Javascript
-https://docs.google.com/document/d/1WmxFdIR-O3cIFP-ePR9S39TxCHziGW8D4krp4KVLKRE/edit?usp=sharing
-
+Блог: https://docs.google.com/document/d/1WmxFdIR-O3cIFP-ePR9S39TxCHziGW8D4krp4KVLKRE/edit?usp=sharing
 <br><br>
 
 ЛАБОРАТОРНА РОБОТА №3
 Розробка Web-додатка засобами Javascript/VueJS
-https://drive.google.com/file/d/1UIn4Yu8UUOEy_wmE6UdErK715sQpc8CS/view?usp=sharing
+Блог: https://docs.google.com/document/d/18zA_H5lNn6PGGXlZ_9--8c6uL6mWCDWu/edit?usp=sharing
